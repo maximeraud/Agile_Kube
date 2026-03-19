@@ -61,6 +61,9 @@ Développeurs → préparation technique
 - En tant d'admin on veux qu'il y ait plusieurs VM avec de la redondance afin de rendre l'application et les services hébergé à haute disponibilité (complexité : 8)
 - En tant qu'utilisateur je dois avoir accès à l'application depuis n'importe quel réseau (complexité : 13)
 
+**sprint goal :**
+- mettre en place le cluster kube pour déployer l'application web afin que les utilisateurs puissent y accèder
+
 
 - 11h45 : Sprint Review
 
