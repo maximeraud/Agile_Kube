@@ -56,10 +56,11 @@ Product Owner → backlog
 Développeurs → préparation technique
 
 **user story :**
-- En tant qu'admin on veux déployer un cluster kub pour héberger l'application et les différent service 8
-- En tant d'admin on veux qu'il y ait plusieurs VM avec de la redondance afin de rendre l'application et les services hébergé à haute disponibilité
-- En tant qu'utilisateur je dois avoir accès à l'application depuis n'importe quel réseau0
-- En tant d'admin on veux un temps de formation sur kub afin d'acquérir les compétences nécessaires  3
+- En tant d'admin on veux un temps de formation sur kub afin d'acquérir les compétences nécessaires (complexité : 3)
+- En tant qu'admin on veux déployer un cluster kub pour héberger l'application et les différent service (complexité : 8)
+- En tant d'admin on veux qu'il y ait plusieurs VM avec de la redondance afin de rendre l'application et les services hébergé à haute disponibilité (complexité : 8)
+- En tant qu'utilisateur je dois avoir accès à l'application depuis n'importe quel réseau (complexité : 13)
+
 
 - 11h45 : Sprint Review
 
