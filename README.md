@@ -63,10 +63,10 @@ Développeurs → préparation technique
 - En tant d'admin on veut déployer l'application web sur le cluster 8
 - En tant d'admin on veut exposer l'application en HTTPS 8
 
-**sprint goal :**
+**Sprint goal :**
 - mettre en place le cluster kube pour déployer l'application web afin que les utilisateurs puissent y accèder
 
-**sprint backlog :**
+**Sprint backlog :**
 - formation Kubernetes
 - déploiement cluster k3s
 - déploiement application web sur workers
@@ -77,7 +77,7 @@ Développeurs → préparation technique
 - Présentation du sprint goal et sprint backlog au client
 - Démo de l'apllication déployer sur le cluster k3s
 
-**Srpint Retro :**
+**Sprint Retro :**
 - organisation à toutes épreuves
 - développement rapide et efficace 
 
@@ -88,6 +88,13 @@ Développeurs → préparation technique
 **user stories :**
 - En tant qu'admin on veut une solution de supervision afin de visualiser l'état des machines et des services
 - En tant qu'admin on veut mettre en place une olution d'aggrégation de log afin de récupérer les journaux d'événements liés à l'application
+
+**Sprint goal :**
+- mettre en place une supervision en temps réel de l'état des machines et des services, ainsi que d'une solution centralisée d'agrégation des logs applicatifs.
+
+**Sprint Backlog :**
+- déployer supervision serveur et applicative
+- implémentation de log de l'appli
 
 ### 🕐 Session 3
 
