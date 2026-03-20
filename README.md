@@ -87,7 +87,7 @@ Développeurs → préparation technique
 
 **user stories :**
 - En tant qu'admin on veut une solution de supervision afin de visualiser l'état des machines et des services
-- En tant qu'admin on veut mettre en place une olution d'aggrégation de log afin de récupérer les journaux d'événements liés à l'application
+- En tant qu'admin on veut mettre en place une solution d'aggrégation de log afin de récupérer les journaux d'événements liés à l'application
 
 **Sprint goal :**
 - mettre en place une supervision en temps réel de l'état des machines et des services, ainsi que d'une solution centralisée d'agrégation des logs applicatifs.
