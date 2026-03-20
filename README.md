@@ -58,18 +58,36 @@ Développeurs → préparation technique
 #### Sprint 1
 
 **user stories :**
-- En tant d'admin on veux un temps de formation sur kub afin d'acquérir les compétences nécessaires 3
-- En tant qu'admin on veux déployer un cluster kub pour héberger l'application et les différent service, ainsi que de la redondance afin de rendre le produit hébergé à haute disponibilité 8
-- En tant d'admin on veux déployer l'application web sur le cluster 8
-- En tant d'admin on veux exposer l'application en HTTPS 8
+- En tant d'admin on veut un temps de formation sur kub afin d'acquérir les compétences nécessaires 3
+- En tant qu'admin on veut déployer un cluster kub pour héberger l'application et les différent service, ainsi que de la redondance afin de rendre le produit hébergé à haute disponibilité 8
+- En tant d'admin on veut déployer l'application web sur le cluster 8
+- En tant d'admin on veut exposer l'application en HTTPS 8
 
 **sprint goal :**
 - mettre en place le cluster kube pour déployer l'application web afin que les utilisateurs puissent y accèder
 
+**sprint backlog :**
+- formation Kubernetes
+- déploiement cluster k3s
+- déploiement application web sur workers
+- exposer l'appli en https
 
-- 11h45 : Sprint Review
+
+**Sprint Review :**
+- Présentation du sprint goal et sprint backlog au client
+- Démo de l'apllication déployer sur le cluster k3s
+
+**Srpint Retro :**
+- organisation à toutes épreuves
+- développement rapide et efficace 
 
 ### 🕐 Session 2
+
+#### Sprint 2
+
+**user stories :**
+- En tant qu'admin on veut une solution de supervision afin de visualiser l'état des machines et des services
+- En tant qu'admin on veut mettre en place une olution d'aggrégation de log afin de récupérer les journaux d'événements liés à l'application
 
 ### 🕐 Session 3
 
