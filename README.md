@@ -104,11 +104,31 @@ Développeurs → préparation technique
 - organisation à toutes épreuves
 - développement rapide et efficace 
 
-### 🕐 Session 3
+### 🕐 Session 3 RETEX
 
-### 🕐 Session 4
++------------------------------+------------------------------+
+| 👍 Positif                  | 👎 Négatif                   |
+|------------------------------|------------------------------|
+| - Compréhension rapide       | - Pas de point négatif       |
+|   des besoins                | - Pas de tests au niveau     |
+| - Répartition des tâches     |   du projet                  |
+| - Documentation              |                              |
+| - Autonomie entre rôles      |                              |
+| - Poker planning             |                              |
++------------------------------+------------------------------+
+| 💡 Idées                    | ❓ Questions                 |
+|------------------------------|------------------------------|
+| - Centraliser les wikis      | - Pourquoi il n’y a pas eu   |
+|   (Constellation,            |   de tests ?                 |
+|   SharePoint ou autres)      |                              |
+| - Créer une procédure        |                              |
+|   d’installation             |                              |
+| - Formation technique        |                              |
+|   approfondie                |                              |
++------------------------------+------------------------------+
 
-### 🕐 Sessions suivantes
+
+
 
 Chaque session suit le cycle Scrum :
 
