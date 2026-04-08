@@ -106,12 +106,10 @@ Développeurs → préparation technique
 
 ### 🕐 Session 3 RETEX
 
-## 🔄 RETEX – Synthèse
-
 | 👍 Positif | 👎 Négatif |
 |-----------|-----------|
-| - Compréhension rapide des besoins | 
-| - Répartition des tâches | - Pas de tests au niveau du projet |
+| - Compréhension rapide des besoins | - Pas de tests au niveau du projet |
+| - Répartition des tâches | |
 | - Documentation | |
 | - Autonomie entre les rôles | |
 | - Poker planning | |
