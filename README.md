@@ -110,7 +110,7 @@ Développeurs → préparation technique
 
 | 👍 Positif | 👎 Négatif |
 |-----------|-----------|
-| - Compréhension rapide des besoins | - Pas de point négatif |
+| - Compréhension rapide des besoins | 
 | - Répartition des tâches | - Pas de tests au niveau du projet |
 | - Documentation | |
 | - Autonomie entre les rôles | |
