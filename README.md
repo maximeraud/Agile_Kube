@@ -110,21 +110,21 @@ Développeurs → préparation technique
 | 👍 Positif                  | 👎 Négatif                   |
 |------------------------------|------------------------------|
 | - Compréhension rapide       | - Pas de point négatif       |
-|   des besoins                | - Pas de tests au niveau     |
+|   des besoins               | - Pas de tests au niveau     |
 | - Répartition des tâches     |   du projet                  |
-| - Documentation              |                              |
-| - Autonomie entre rôles      |                              |
-| - Poker planning             |                              |
+| - Documentation             |                              |
+| - Autonomie entre rôles     |                              |
+| - Poker planning            |                              |
 +------------------------------+------------------------------+
 | 💡 Idées                    | ❓ Questions                 |
 |------------------------------|------------------------------|
-| - Centraliser les wikis      | - Pourquoi il n’y a pas eu   |
-|   (Constellation,            |   de tests ?                 |
-|   SharePoint ou autres)      |                              |
-| - Créer une procédure        |                              |
-|   d’installation             |                              |
-| - Formation technique        |                              |
-|   approfondie                |                              |
+| - Centraliser les wikis     | - Pourquoi il n’y a pas eu  |
+|   (Constellation,           |   de tests ?                |
+|   SharePoint ou autres)     |                              |
+| - Créer une procédure       |                              |
+|   d’installation            |                              |
+| - Formation technique       |                              |
+|   approfondie               |                              |
 +------------------------------+------------------------------+
 
 
