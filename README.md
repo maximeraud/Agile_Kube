@@ -96,6 +96,14 @@ Développeurs → préparation technique
 - déployer supervision serveur et applicative
 - implémentation de log de l'appli
 
+**Sprint Review :**
+- Présentation du sprint goal et sprint backlog au client
+- Démo des différentes focntionnalités au client
+
+**Sprint Retro :**
+- organisation à toutes épreuves
+- développement rapide et efficace 
+
 ### 🕐 Session 3
 
 ### 🕐 Session 4
