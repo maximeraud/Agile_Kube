@@ -106,26 +106,23 @@ Développeurs → préparation technique
 
 ### 🕐 Session 3 RETEX
 
-+------------------------------+------------------------------+
-| 👍 Positif                  | 👎 Négatif                   |
-|------------------------------|------------------------------|
-| - Compréhension rapide       | - Pas de point négatif       |
-|   des besoins               | - Pas de tests au niveau     |
-| - Répartition des tâches     |   du projet                  |
-| - Documentation             |                              |
-| - Autonomie entre rôles     |                              |
-| - Poker planning            |                              |
-+------------------------------+------------------------------+
-| 💡 Idées                    | ❓ Questions                 |
-|------------------------------|------------------------------|
-| - Centraliser les wikis     | - Pourquoi il n’y a pas eu  |
-|   (Constellation,           |   de tests ?                |
-|   SharePoint ou autres)     |                              |
-| - Créer une procédure       |                              |
-|   d’installation            |                              |
-| - Formation technique       |                              |
-|   approfondie               |                              |
-+------------------------------+------------------------------+
+## 🔄 RETEX – Synthèse
+
+| 👍 Positif | 👎 Négatif |
+|-----------|-----------|
+| - Compréhension rapide des besoins | - Pas de point négatif |
+| - Répartition des tâches | - Pas de tests au niveau du projet |
+| - Documentation | |
+| - Autonomie entre les rôles | |
+| - Poker planning | |
+
+<br>
+
+| 💡 Idées | ❓ Questions |
+|---------|-------------|
+| - Centraliser les wikis (Constellation, SharePoint ou autres) | - Pourquoi il n’y a pas eu de tests ? |
+| - Créer une procédure d’installation | |
+| - Formation technique approfondie | |
 
 
 
